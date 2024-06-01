@@ -1,4 +1,4 @@
-const randomNumber = Math.trunc(Math.random()*10) + 1;
+const randomNumber = Math.trunc(Math.random()*20) + 1;
 let chances = 5;
 
 const checkbtn = document.querySelector(".check");
